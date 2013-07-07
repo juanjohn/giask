@@ -1,0 +1,5 @@
+#field{position:absolute;left:50px;border:2px solid #ccc;width:400px;background-color:#aaaaaa; border-radius:2%;}
+#clubs { border:1px solid #ccc;width:180px; height: 86px; overflow-y:scroll;}
+#password,#repassword,#name,#dob,#roll_no,#dept,#email_id,#schools,#address,#captcha{width:220px;}
+i{color:red;}
+#otherschool{display:inline;}

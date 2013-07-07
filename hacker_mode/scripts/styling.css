@@ -1,0 +1,57 @@
+body{
+	background-color:#eaeff2;
+	}
+input[type=checkbox]{
+	box-shadow: 0 1px 2px rgba(0,0,0,0.05), inset 0px 1px 3px rgba(0,0,0,0.1);
+	}
+#head{
+	background-color:#dee7ee;
+	position:absolute;
+	height:90px;
+	width:100%;
+	left:0px;
+	top:0px;
+	border-bottom:2px solid #b3b8c8;
+	}
+div{
+	color:#484848;
+	}
+h1{
+	position:relative;
+	left:52px;
+	color:#484848;
+	}
+#field{
+	position:absolute;
+	left:50px;
+	top:120px;
+	border:2px solid #b3b8c8;
+	width:400px;
+	background-color:#dee7ee; 
+	border-radius:0%;
+	}
+#clubs{
+	background-color:#eaeff2;
+	border:1px solid #ccc;
+	width:220px;
+	height: 86px;
+	overflow-y:scroll;
+	}
+input[type=text],input[type=password],#schools,#address{
+	color:#484848;
+	width:220px;
+	border: 2px solid white; 
+    -webkit-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    -moz-box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+    box-shadow: 
+      inset 0 0 8px  rgba(0,0,0,0.1),
+            0 0 16px rgba(0,0,0,0.1); 
+	}
+i{color:red;}
+#otherschool{
+	display:inline;
+	}
